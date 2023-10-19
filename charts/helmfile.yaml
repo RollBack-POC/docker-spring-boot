@@ -1,0 +1,5 @@
+---
+
+releases:
+  - name: helm-sample-app
+    chart: ./helm-example
